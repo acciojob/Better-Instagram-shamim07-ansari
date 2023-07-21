@@ -1,5 +1,4 @@
 //your code here
-
 let dragindex = 0;
 let dropindex = 0;
 let clone = "";
